@@ -1,0 +1,16 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.container {
+  width: 80%;
+  background-color: rgb(189, 161, 216);
+  margin: 0 auto;
+}
+header,
+main,
+nav,
+footer {
+  min-height: 10vh;
+}
